@@ -1,4 +1,4 @@
-# Gestione Energetica Casa Fotovoltaica
+# Gestione Energetica Casa 
 
 Un'applicazione Java a riga di comando per monitorare e ottimizzare i consumi domestici in base alla produzione di un impianto fotovoltaico.
 
